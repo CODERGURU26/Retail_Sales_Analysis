@@ -1,3 +1,6 @@
+## 📷 Dashboard Preview
+![Dashboard](dashboard.jpeg)
+
 # 📊 Retail Sales Analysis Dashboard
 
 ## 📌 Project Overview
@@ -25,9 +28,6 @@ This project analyzes retail sales data to uncover sales trends, product categor
 - Electronics shows stable demand across months.
 - Beauty products have strong repeat-purchase potential.
 - Adult customers contribute the most to total sales.
-
-## 📷 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
 
 ## 🚀 Conclusion
 This dashboard helps businesses make data-driven decisions related to inventory planning, marketing strategies, and customer targeting.
